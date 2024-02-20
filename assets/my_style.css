@@ -1,0 +1,13 @@
+.fa.fa-hashtag {
+  color: var(--theme-color, #42b983);
+}
+
+var.mark {
+  color: rgb(237, 78, 132);
+  -webkit-font-smoothing: antialiased;
+  font-weight: 700;
+}
+
+summary {
+  cursor: pointer;
+}
