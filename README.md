@@ -1,4 +1,6 @@
 - [列表 - 韩立的修炼](/)
 - **2024-02**
-  - [使用 docsfiy 搭建此网站](/2024/02/docsify.md)
+  - [nvim、warp、laygit](/2024/02/nvim_warp_lazygit.md)
+  - [检测网站的 HTTP 版本](/2024/02/website_http_version.md)
   - [OPA 和 JWT 使用](/2024/02/opa_jwt_example.md)
+  - [使用 docsfiy 搭建此网站](/2024/02/docsify.md)
