@@ -1,5 +1,6 @@
 - [列表 - 韩立的修炼](/)
 - **2024-02**
+  - [如何将三台电脑（MacOS/Linux/Windows）共用一套鼠标键盘](/2024/02/share_keyboard_and_mouse.md)
   - [RC-使用 Kubernetes 编写 Go Serivce](/2024/02/go_service.md)
   - [RC-如何在终端里实现刷 LeetCode](/2024/02/leetgo.md)
   - [nvim、warp、laygit](/2024/02/nvim_warp_lazygit.md)
