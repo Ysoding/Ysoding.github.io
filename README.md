@@ -1,5 +1,7 @@
 - [列表 - 韩立的修炼](/)
 - **2024-02**
+  - [RC-使用 Kubernetes 编写 Go Serivce](/2024/02/go_service.md)
+  - [RC-如何在终端里实现刷 LeetCode](/2024/02/leetgo.md)
   - [nvim、warp、laygit](/2024/02/nvim_warp_lazygit.md)
   - [检测网站的 HTTP 版本](/2024/02/website_http_version.md)
   - [OPA 和 JWT 使用](/2024/02/opa_jwt_example.md)
