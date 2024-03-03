@@ -1,6 +1,4 @@
-#postgresql
-
-# Postgresql
+# PostgreSQL
 
 ## Install
 
