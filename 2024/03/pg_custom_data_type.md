@@ -19,6 +19,11 @@ cd postgresql-10.6
 ./configure
 make
 sudo make install
+
+sudo apt install postgresql-contrib
+sudo passwd postgres
+su postgres
+psql
 ```
 
 ## PersonName 类型值的 BNF
