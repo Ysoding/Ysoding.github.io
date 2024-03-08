@@ -38,3 +38,11 @@ M.xmchxup = {
 # Lazygit
 
 > [simple terminal UI for git commands](https://github.com/jesseduffield/lazygit#ubuntu)
+
+# Vim
+
+> vscode 中有个 learn vim 插件可以学习下
+
+# Chrome
+
+Vimium C 插件
