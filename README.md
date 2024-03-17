@@ -1,5 +1,6 @@
 - [列表 - 韩立的修炼](/)
 - **2024-03**
+  - [一周的按键情况分析](/2024/03/keyboard-monitor.md)
   - [如何实现 tree 命令](/2024/03/tree_command.md)
   - [Go-实现阻塞读且并发安全的 map](/2024/03/go_sync_block_map.md)
   - [如何在 PostgreSQL 中实现一个自定义类型](/2024/03/pg_custom_data_type.md)
