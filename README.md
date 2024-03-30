@@ -1,5 +1,7 @@
 - [列表 - 韩立的修炼](/)
 - **2024-03**
+  - [Linux 代理配置](/2024/03/linux_proxy.md)
+  - [K8s 集群部署](/2024/03/kubernetes_setup.md)
   - [一周的按键情况分析](/2024/03/keyboard-monitor.md)
   - [如何实现 tree 命令](/2024/03/tree_command.md)
   - [Go-实现阻塞读且并发安全的 map](/2024/03/go_sync_block_map.md)
