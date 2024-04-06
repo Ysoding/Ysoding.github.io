@@ -1,4 +1,7 @@
 - [列表 - 韩立的修炼](/)
+- **2024-04**
+  - [世界生成算法](/2024/04/world_generation.md)
+  - [迷宫生成算法](/2024/04/maze_generation_algorithm.md)
 - **2024-03**
   - [Linux 代理配置](/2024/03/linux_proxy.md)
   - [K8s 集群部署](/2024/03/kubernetes_setup.md)
