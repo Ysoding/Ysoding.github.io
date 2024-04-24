@@ -1,5 +1,6 @@
 - [列表 - 韩立的修炼](/)
 - **2024-04**
+  - [K8s Pod 不断重启问题深入排查](/2024/04/k8s_pod_always_restart.md)
   - [Cilium 连通信测试问题](/2024/04/cilium_connectivity_test.md)
   - [世界生成算法](/2024/04/world_generation.md)
   - [迷宫生成算法](/2024/04/maze_generation_algorithm.md)
