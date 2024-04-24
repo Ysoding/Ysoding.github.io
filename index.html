@@ -20,10 +20,10 @@
       rel="stylesheet"
       href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css"
     />
-    <link
+    <!-- <link
       rel="stylesheet"
       href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css"
-    />
+    /> -->
     <link
       rel="stylesheet"
       href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css"
@@ -44,6 +44,7 @@
       var num = 0;
       mermaid.initialize({ startOnLoad: false });
       window.$docsify = {
+        disqus: "my-notes-3",
         gtag: "G-LLY5RLZ075",
         // 警告：历史模式下请求old会返回old文件夹目录，而hash模式会返回404
         // 错误：历史模式下docsify无法热重载
@@ -116,8 +117,11 @@
     <!-- Search -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 
+    <!-- disqus -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
+
     <!-- Gitalk -->
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+    <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
     <script>
       const gitalk = new Gitalk({
@@ -125,11 +129,11 @@
         clientSecret: "25b439d3eb58e90c2de134c52169114af7d03913",
         repo: "Ysoding.github.io",
         owner: "Ysoding",
-        admin: ["XmchxUp"],
+        admin: ["XmchxUp", "Ysoding"],
         // facebook-like distraction free mode
         distractionFreeMode: false,
       });
-    </script>
+    </script> -->
 
     <!-- Pagination -->
     <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
