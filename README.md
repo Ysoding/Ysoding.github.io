@@ -1,6 +1,5 @@
 - [列表 - 韩立的修炼](/)
 - [Hobby Projects](/hobby_projects.md)
-- [那些年玩过的技术栈](./tech_timeline.md)
 - **2024-04**
   - [K8s Pod 不断重启问题深入排查](/2024/04/k8s_pod_always_restart.md)
   - [Cilium 连通信测试问题](/2024/04/cilium_connectivity_test.md)
