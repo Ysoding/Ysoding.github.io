@@ -1,5 +1,8 @@
 - [列表 - 韩立的修炼](/)
 - [Hobby Projects](/hobby_projects.md)
+- **2024-05**
+  - [RC-incubator-answer 论坛](/2024/05/incubator-answer.md)
+  - [cilium-hive 依赖注入框架](/2024/05/cilium_hive_di.md)
 - **2024-04**
   - [K8s Pod 不断重启问题深入排查](/2024/04/k8s_pod_always_restart.md)
   - [Cilium 连通信测试问题](/2024/04/cilium_connectivity_test.md)
