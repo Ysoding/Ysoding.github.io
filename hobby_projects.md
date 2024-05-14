@@ -6,11 +6,22 @@
 
 ## [CS 国外课程学习](https://xmchxup.github.io/posts/other/cs-course-learn/)
 
+
+## [Grade System](https://github.com/cs-learning-every-day/GradeSystem)
+
+基于Spring Boot和Vue独立开发了一套毕设评分系统。项目核心特色在于，对学校毕设评分工作流程模拟、对评分相关内容提供了高复用服务。利用Aspose Word来导出高度自定义化的word模板。还有一些类似学校信息管理相关内容。 <img src="https://skillicons.dev/icons?i=java,spring,vue,html,css,js">
+
+## [Toy Redis](https://github.com/cs-learning-every-day/learning-project/tree/main/go-redis)
+
+基于Golang开发的基于TCP服务器、内存数据库的一个玩具Redis。 提供Redis协议解析器，Aof持久化，集群，string/map相关操作的部分指令 <img src="https://skillicons.dev/icons?i=go,redis">
+
+## [Gitlet](https://github.com/cs-learning-every-day/cs61b-code-sp21/blob/master/proj2/gitlet-design.md)
+
+基于Java开发的一个版本控制系统，该系统模仿了Git的一些基本功能，以及一些附加功能。参考Git设计思想，自行设计结构完成对应功能。 实现的功能指令有init、add、commit、rm、log、global-log、find、status、checkout、branch、rm-branch、reset和merge，远程相关的命令 add-remote、rm-remote、push、fetch、pull。 <img src="https://skillicons.dev/icons?i=java,git">
+
 ## [Tiny Trello](https://github.com/Ysoding/tiny-trello) 
 
 Tiny Trello <img src="https://skillicons.dev/icons?i=html,css,ts,react">
-
-
 
 ## [spidey](https://github.com/Ysoding/spidey)
 
