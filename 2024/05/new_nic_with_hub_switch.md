@@ -5,6 +5,9 @@
 - 给router安装一个USB网卡
 - 用交换机连接起router的USB网卡和新主机
 
+
+![Untitled](https://github.com/XmchxUp/picx-images-hosting/raw/master/20240514/Untitled.45i3j9nhp.webp)
+
 ## 操作
 
 注意：这里NIC1（eno1）和NIC2（enx503eaa9ad449）是示例名称，你应该替换为你实际的网络接口名称。
