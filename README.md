@@ -2,6 +2,7 @@ The best thing to do is have fun.
 
 - [列表 - 韩立的修炼](/)
 - [Hobby Projects](/hobby_projects.md)
+- [Kata](/kata.md)
 - **2024-05**
   - [如何搭建新个网段，并配有一台机器挂载](/2024/05/new_nic_with_hub_switch.md)
   - [RC-incubator-answer 论坛](/2024/05/incubator-answer.md)
