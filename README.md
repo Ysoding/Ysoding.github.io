@@ -4,6 +4,7 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 - [Kata](/kata.md)
 - **2024-05**
+  - [如何手搓一个 CPU？](/2024/05/cs61cpu.md)
   - [如何搭建新个网段，并配有一台机器挂载](/2024/05/new_nic_with_hub_switch.md)
   - [RC-incubator-answer 论坛](/2024/05/incubator-answer.md)
   - [cilium-hive 依赖注入框架](/2024/05/cilium_hive_di.md)
