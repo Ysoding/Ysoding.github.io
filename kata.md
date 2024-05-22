@@ -1,4 +1,12 @@
-# What can i say
+## [74. Search a 2D Matrix](https://leetcode.cn/problems/search-a-2d-matrix/description/)
+
+方法一：可以考虑成数组，只不过需要坐标转换成 matrix O(log(m\*n))
+
+方法二：可以从右上角开始，小于就往左，大于就往下。O(m+n)
+
+## [704. Binary Search](https://leetcode.cn/problems/binary-search/description/)
+
+考虑好边界，相等处理。
 
 ## [114. Flatten Binary Tree to Linked List](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/)
 
