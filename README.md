@@ -4,6 +4,7 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 - [Kata](/kata.md)
 - **2024-05**
+  - [怎么实现一个HashMap STL-compliant, industrial strength, robust, and blazingly fast data structure](/2024/05/cpp_hashmap.md)
   - [RC-EaseProbe 一个优雅的状态检测工具，支持多种协议和通知平台](/2024/05/rc_easeprobe.md)
   - [从一个Wiki地址如何一步一步的到另一个Wiki地址](/2024/05/wiki_start_to_wiki_end.md)
   - [如何手搓一个 CPU？](/2024/05/cs61cpu.md)
