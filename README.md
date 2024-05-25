@@ -4,9 +4,10 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 - [Kata](/kata.md)
 - **2024-05**
-  - [怎么实现一个HashMap STL-compliant, industrial strength, robust, and blazingly fast data structure](/2024/05/cpp_hashmap.md)
+  - [使用 SIMD 来计算一个数组的和](/2024/05/simd_instruction.md)
+  - [怎么实现一个 HashMap STL-compliant, industrial strength, robust, and blazingly fast data structure](/2024/05/cpp_hashmap.md)
   - [RC-EaseProbe 一个优雅的状态检测工具，支持多种协议和通知平台](/2024/05/rc_easeprobe.md)
-  - [从一个Wiki地址如何一步一步的到另一个Wiki地址](/2024/05/wiki_start_to_wiki_end.md)
+  - [从一个 Wiki 地址如何一步一步的到另一个 Wiki 地址](/2024/05/wiki_start_to_wiki_end.md)
   - [如何手搓一个 CPU？](/2024/05/cs61cpu.md)
   - [如何搭建新个网段，并配有一台机器挂载](/2024/05/new_nic_with_hub_switch.md)
   - [RC-incubator-answer 论坛](/2024/05/incubator-answer.md)
