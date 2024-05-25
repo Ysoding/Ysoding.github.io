@@ -4,6 +4,7 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 - [Kata](/kata.md)
 - **2024-05**
+  - [如何给 Hugo 博客添加热力图](/2024/05/hugo_heatmap.md)
   - [使用 SIMD 来计算一个数组的和](/2024/05/simd_instruction.md)
   - [怎么实现一个 HashMap STL-compliant, industrial strength, robust, and blazingly fast data structure](/2024/05/cpp_hashmap.md)
   - [RC-EaseProbe 一个优雅的状态检测工具，支持多种协议和通知平台](/2024/05/rc_easeprobe.md)
