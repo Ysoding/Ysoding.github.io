@@ -11,6 +11,8 @@ Read over the [Intel Intrinsics Guide](https://software.intel.com/sites/landing
 
 [Compiler Explorer](https://godbolt.org/z/J7HXBk)
 
+主要注意处理 tail case
+
 ```sh
 Let's generate a randomized array.
 Starting randomized sum.
