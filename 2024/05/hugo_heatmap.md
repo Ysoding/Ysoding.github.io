@@ -4,4 +4,7 @@
 
 ## Use
 
-这里用的时候是当[shortcodes}(https://gohugo.io/content-management/shortcodes/)，还是就是` {{ range ((where .Site.RegularPages "Type" "post")) }}`是判断注意你的 post 的类型，如果文章内容没有指定type的话默认好像是page，所有需要给所有文章加上`type: 'post'`
+这里用的时候是当[shortcodes}(https://gohugo.io/content-management/shortcodes/)，还是就是` {{ range ((where .Site.RegularPages "Type" "post")) }}`是判断注意你的 post 的类型。
+
+If your content is in content/posts the .Type is posts (plural).
+If your content is in content/post the .Type is post (singular).
