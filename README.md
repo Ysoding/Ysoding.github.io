@@ -4,6 +4,7 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 - [Kata](/kata.md)
 - **2024-05**
+  - [用 C 实现 Numpy，使用 SIMD 和 OpenMP，比原生快](/2024/05/custom_numpy.md)
   - [使用 OpenMP(Thread-Level Parallelism)，来操作矩阵和，点积](/2024/05/openMP.md)
   - [如何给 Hugo 博客添加热力图](/2024/05/hugo_heatmap.md)
   - [使用 SIMD 来计算一个数组的和](/2024/05/simd_instruction.md)
