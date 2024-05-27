@@ -7,6 +7,10 @@
 ## [CS 国外课程学习](https://xmchxup.github.io/posts/other/cs-course-learn/)
 
 
+## [Pokemon Wiki Spider](https://github.com/Ysoding/pokemon-wiki-spider)
+
+基于Golang实现的一个优雅的爬虫框架。
+
 ## [Grade System](https://github.com/cs-learning-every-day/GradeSystem)
 
 基于Spring Boot和Vue独立开发了一套毕设评分系统。项目核心特色在于，对学校毕设评分工作流程模拟、对评分相关内容提供了高复用服务。利用Aspose Word来导出高度自定义化的word模板。还有一些类似学校信息管理相关内容。 <img src="https://skillicons.dev/icons?i=java,spring,vue,html,css,js">
