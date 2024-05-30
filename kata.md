@@ -1,3 +1,7 @@
+## [Advent Of Code 2023 Day1](https://adventofcode.com/2023/day/1)
+
+比较简单的一道题，喜欢这个解决问题的过程。
+
 ## [74. Search a 2D Matrix](https://leetcode.cn/problems/search-a-2d-matrix/description/)
 
 方法一：可以考虑成数组，只不过需要坐标转换成 matrix O(log(m\*n))
