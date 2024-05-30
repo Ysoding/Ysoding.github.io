@@ -7,6 +7,10 @@
 ## [CS 国外课程学习](https://xmchxup.github.io/posts/other/cs-course-learn/)
 
 
+## [Go Sqlite](https://github.com/Ysoding/go-sqlite)
+
+Simple Database
+
 ## [Pokemon Wiki Spider](https://github.com/Ysoding/pokemon-wiki-spider)
 
 基于Golang实现的一个优雅的爬虫框架。
