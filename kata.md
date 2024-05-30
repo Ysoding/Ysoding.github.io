@@ -1,6 +1,8 @@
-## [Advent Of Code 2023 Day1](https://adventofcode.com/2023/day/1)
+## [Advent Of Code 2023 Day 3: Gear Ratios](https://adventofcode.com/2023/day/3)
+## [Advent Of Code 2023 Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2)
+## [Advent Of Code 2023 Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1)
 
-比较简单的一道题，喜欢这个解决问题的过程。
+Enjoy
 
 ## [74. Search a 2D Matrix](https://leetcode.cn/problems/search-a-2d-matrix/description/)
 
