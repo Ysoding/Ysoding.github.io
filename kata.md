@@ -1,8 +1,15 @@
-## [Advent Of Code 2023 Day 3: Gear Ratios](https://adventofcode.com/2023/day/3)
-## [Advent Of Code 2023 Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2)
-## [Advent Of Code 2023 Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1)
-
+## [Advent Of Code 2023](https://adventofcode.com/2023)
 Enjoy
+
+### [Advent Of Code 2023 Day 3: Gear Ratios](https://adventofcode.com/2023/day/3)
+
+先构建物体，在从坐标出发
+
+// 找出所有symbol, 所有数的坐标
+// 遍历symbol，对角线，左右判断有没有数的坐标一样
+
+### [Advent Of Code 2023 Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2)
+### [Advent Of Code 2023 Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1)
 
 ## [74. Search a 2D Matrix](https://leetcode.cn/problems/search-a-2d-matrix/description/)
 
