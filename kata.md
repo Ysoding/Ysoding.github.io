@@ -1,7 +1,7 @@
 ## [Advent Of Code 2023](https://adventofcode.com/2023)
 Enjoy
 
-### [Advent Of Code 2023 Day 4: Scratchcards](https://adventofcode.com/2023/day/3)
+### [Advent Of Code 2023 Day 4: Scratchcards](https://adventofcode.com/2023/day/4)
 
 在阶段2时，使用了一个map记录cardID可以有哪些cardID生成，然后获取值的时候递归的去找，注意使用Cache，剪枝。
 
