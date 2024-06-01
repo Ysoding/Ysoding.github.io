@@ -1,9 +1,10 @@
 ## [Advent Of Code 2023](https://adventofcode.com/2023)
+
 Enjoy
 
 ### [Advent Of Code 2023 Day 4: Scratchcards](https://adventofcode.com/2023/day/4)
 
-在阶段2时，使用了一个map记录cardID可以有哪些cardID生成，然后获取值的时候递归的去找，注意使用Cache，剪枝。
+在阶段 2 时，使用了一个 map 记录 cardID 可以有哪些 cardID 生成，然后获取值的时候递归的去找，注意使用 Cache，剪枝。
 
 ```go
 Card 1: 41 48 83 86 17 | 83 86  6 31 17  9 48 53
@@ -20,11 +21,16 @@ map[2:[1] 3:[1 2] 4:[1 2 3] 5:[1 3 4]]
 
 先构建物体，在从坐标出发
 
-// 找出所有symbol, 所有数的坐标
-// 遍历symbol，对角线，左右判断有没有数的坐标一样
+// 找出所有 symbol, 所有数的坐标
+// 遍历 symbol，对角线，左右判断有没有数的坐标一样
 
 ### [Advent Of Code 2023 Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2)
+
 ### [Advent Of Code 2023 Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1)
+
+## [146. LRU Cache](https://leetcode.cn/problems/lru-cache/description/)
+
+一个 map 存储数据，一个 list 当 LRU 的队列，想要在 list 中快速删除对应的值可以考虑在使用个 map 记录对应 list 的 node。
 
 ## [74. Search a 2D Matrix](https://leetcode.cn/problems/search-a-2d-matrix/description/)
 
