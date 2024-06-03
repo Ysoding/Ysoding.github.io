@@ -4,6 +4,7 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 - [Kata](/kata.md)
 - **2024-05**
+  - [实现个Buffer Pool(Extendible Hasing/LRUK Replacer)](/2024/05/cmu15445_p1.md)
   - [实现个Concurrent Trie](/2024/05/cmu15445_p0.md)
   - [Vbox内存不足，测试cilium connectivity test的坑](/2024/05/vbox_cilium_low_memory.md)
   - [用 C 实现 Numpy，使用 SIMD 和 OpenMP，比原生快](/2024/05/custom_numpy.md)
