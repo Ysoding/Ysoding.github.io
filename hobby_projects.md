@@ -23,6 +23,13 @@ Simple Database
 
 基于Golang开发的基于TCP服务器、内存数据库的一个玩具Redis。 提供Redis协议解析器，Aof持久化，集群，string/map相关操作的部分指令 <img src="https://skillicons.dev/icons?i=go,redis">
 
+
+## [Toy TCP](https://github.com/cs-learning-every-day/CS144-Fa21)
+
+用C++编写的简化TCP协议实现，包括三次握手、四次挥手、TCP状态机、流重组器、累计确认重传机制、滑动窗口、慢启动和拥塞避免算法。
+<img src="https://skillicons.dev/icons?i=cpp">
+
+
 ## [Gitlet](https://github.com/cs-learning-every-day/cs61b-code-sp21/blob/master/proj2/gitlet-design.md)
 
 基于Java开发的一个版本控制系统，该系统模仿了Git的一些基本功能，以及一些附加功能。参考Git设计思想，自行设计结构完成对应功能。 实现的功能指令有init、add、commit、rm、log、global-log、find、status、checkout、branch、rm-branch、reset和merge，远程相关的命令 add-remote、rm-remote、push、fetch、pull。 <img src="https://skillicons.dev/icons?i=java,git">
