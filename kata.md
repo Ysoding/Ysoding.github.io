@@ -1,3 +1,7 @@
+## [rustlings](https://github.com/XmchxUp/rustlings/tree/round1)
+
+Small exercises to get you used to reading and writing Rust code!
+
 ## [Advent Of Code 2023](https://adventofcode.com/2023)
 
 Enjoy
