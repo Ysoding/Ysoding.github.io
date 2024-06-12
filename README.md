@@ -4,6 +4,7 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 - [Kata](/kata.md)
 - **2024-06**
+  - [实现Protocol Buffer中的varint编码](/2024/06/protobuf_varints.md)
 - **2024-05**
   - [实现个Buffer Pool(Extendible Hasing/LRUK Replacer)](/2024/05/cmu15445_p1.md)
   - [实现个Concurrent Trie](/2024/05/cmu15445_p0.md)
