@@ -1,6 +1,6 @@
 [Protobuf Encoding](https://protobuf.dev/programming-guides/encoding/#simple)
 
-[Code](https://github.com/Ysoding/cs/blob/main/computer-system/bits%26bytes/varint/varints.py)
+[Code](https://github.com/Ysoding/cs/blob/main/computer-system/bits_bytes/varint/varints.py)
 
 ## Encode
 
