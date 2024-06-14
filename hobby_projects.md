@@ -7,6 +7,9 @@
 ## [CS 国外课程学习](https://xmchxup.github.io/posts/other/cs-course-learn/)
 
 
+## [BiliBili RSS](https://github.com/Ysoding/bilibilirss)
+BiliBili RSS <img src="https://skillicons.dev/icons?i=go">
+
 ## [Tiny Sqlite](https://github.com/Ysoding/go-sqlite)
 
 Simple Sqlite<img src="https://skillicons.dev/icons?i=go,sqlite">
