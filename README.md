@@ -4,7 +4,7 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 - [Kata](/kata.md)
 - **2024-06**
-  - [分析一个 pcap 文件的 TCP SYN flood 情况]
+  - [分析一个 pcap 文件的 TCP SYN flood 情况](/2024/06/tcp_syn_flood.md)
   - [实现 Protocol Buffer 中的 varint 编码](/2024/06/protobuf_varints.md)
 - **2024-05**
   - [实现个 Buffer Pool(Extendible Hasing/LRUK Replacer)](/2024/05/cmu15445_p1.md)
