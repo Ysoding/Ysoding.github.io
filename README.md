@@ -4,11 +4,12 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 - [Kata](/kata.md)
 - **2024-06**
-  - [实现Protocol Buffer中的varint编码](/2024/06/protobuf_varints.md)
+  - [分析一个 pcap 文件的 TCP SYN flood 情况]
+  - [实现 Protocol Buffer 中的 varint 编码](/2024/06/protobuf_varints.md)
 - **2024-05**
-  - [实现个Buffer Pool(Extendible Hasing/LRUK Replacer)](/2024/05/cmu15445_p1.md)
-  - [实现个Concurrent Trie](/2024/05/cmu15445_p0.md)
-  - [Vbox内存不足，测试cilium connectivity test的坑](/2024/05/vbox_cilium_low_memory.md)
+  - [实现个 Buffer Pool(Extendible Hasing/LRUK Replacer)](/2024/05/cmu15445_p1.md)
+  - [实现个 Concurrent Trie](/2024/05/cmu15445_p0.md)
+  - [Vbox 内存不足，测试 cilium connectivity test 的坑](/2024/05/vbox_cilium_low_memory.md)
   - [用 C 实现 Numpy，使用 SIMD 和 OpenMP，比原生快](/2024/05/custom_numpy.md)
   - [使用 OpenMP(Thread-Level Parallelism)，来操作矩阵和，点积](/2024/05/openMP.md)
   - [如何给 Hugo 博客添加热力图](/2024/05/hugo_heatmap.md)
