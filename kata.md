@@ -6,6 +6,27 @@ Small exercises to get you used to reading and writing Rust code!
 
 Enjoy
 
+### [Advent Of Code 2023 Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/4)
+
+phase-2 几十亿的数遍历，直接CPU拉满卡死，后面改用channel一个一个处理，不致于处理太快。不知道要跑多久，可以改成并发的。
+
+
+```
+换种思考方式
+
+// getAnswerOptimaze
+// 将所有操作都使用区间（交集，差集，合并），最后得出所有location的区间(排序后的)，每一个区间的start就是结果
+func getAnswerOptimaze() int {
+	// seeds-range
+	// seeds-range.intersection(cur-level-range)
+	// calculate next-level-offset-range
+	// seeds-range.difference(cur-level-range)= diff-seeds-range
+	// diff-seeds-range.union(next-level-offset-range) all-next-level-offset-range
+	// repeat all level
+	return 0
+}
+```
+
 ### [Advent Of Code 2023 Day 4: Scratchcards](https://adventofcode.com/2023/day/4)
 
 在阶段 2 时，使用了一个 map 记录 cardID 可以有哪些 cardID 生成，然后获取值的时候递归的去找，注意使用 Cache，剪枝。
