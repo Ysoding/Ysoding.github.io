@@ -4,6 +4,8 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 - [Kata](/kata.md)
 - **2024-06**
+  - [Linear Probing Hash Table](/2024/06/linear_probing_hash_table.md)
+  - [用 C 实现一个 Varint Python Extension](/2024/06/c_py_extension_varint.md)
   - [分析一个 pcap 文件的 TCP SYN flood 情况](/2024/06/tcp_syn_flood.md)
   - [实现 Protocol Buffer 中的 varint 编码](/2024/06/protobuf_varints.md)
 - **2024-05**
