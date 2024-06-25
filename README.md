@@ -4,6 +4,8 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 - [Kata](/kata.md)
 - **2024-06**
+  - [AWS/wireguard测试](/2024/06/aws_wireguard.md)
+  - [Flutter 环境搭建](/2024/06/flutter_env.md)
   - [Linear Probing Hash Table](/2024/06/linear_probing_hash_table.md)
   - [用 C 实现一个 Varint Python Extension](/2024/06/c_py_extension_varint.md)
   - [分析一个 pcap 文件的 TCP SYN flood 情况](/2024/06/tcp_syn_flood.md)
