@@ -1,3 +1,7 @@
+## [coding interview university](https://github.com/XmchxUp/coding-interview-university)
+
+## [go concurrency exercises](https://github.com/XmchxUp/go-concurrency-exercises)
+
 ## [rustlings](https://github.com/XmchxUp/rustlings/tree/round1)
 
 Small exercises to get you used to reading and writing Rust code!
