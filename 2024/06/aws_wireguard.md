@@ -106,6 +106,8 @@
         ```
 3. 启动wireguard
     ```
+    $ wg-quick up wg0
+    or 
     $ sudo systemctl enable wg-quick@wg0.service
     $ sudo systemctl start wg-quick@wg0.service
     ```
