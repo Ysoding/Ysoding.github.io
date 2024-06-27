@@ -1,6 +1,10 @@
 
 #wireguard
 
+
+> [WIREGUARD HUB AND SPOKE CONFIGURATION](https://www.procustodibus.com/blog/2020/11/wireguard-hub-and-spoke-config/)
+> [WIREGUARD POINT TO POINT CONFIGURATION](https://www.procustodibus.com/blog/2020/11/wireguard-point-to-point-config/)
+
 ### ENV
 
 | name    | type   | machine   | IP                   |
