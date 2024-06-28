@@ -7,6 +7,23 @@
 ## [CS 国外课程学习](https://xmchxup.github.io/posts/other/cs-course-learn/)
 
 
+## [QClock Go](https://github.com/Ysoding/qclock-go)
+
+<img src="https://skillicons.dev/icons?i=go">
+
+
+## [YIM](https://github.com/Ysoding/yim)
+
+致力于构建亿级通信的IM系统。<img src="https://skillicons.dev/icons?i=go,redis">
+
+## [Virgo](https://github.com/Ysoding/virgo)
+
+一个TG Bot宇宙<img src="https://skillicons.dev/icons?i=go,rust,python">
+
+## [Wakatime GO sdk](https://github.com/Ysoding/wakatime-go)
+
+Go sdk for WakaTime API <img src="https://skillicons.dev/icons?i=go">
+
 ## [BiliBili RSS](https://github.com/Ysoding/bilibilirss)
 BiliBili RSS <img src="https://skillicons.dev/icons?i=go">
 
