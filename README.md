@@ -1,7 +1,5 @@
 The best thing to do is have fun.
 
-> 搞了很多东西后，越来越觉得要随便记点东西，主要是记录，没有任何意义。
-
 - [列表 - 韩立的修炼](/)
 - [Hobby Projects](/hobby_projects.md)
 - [Kata](/kata.md)
