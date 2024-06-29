@@ -1,10 +1,12 @@
 The best thing to do is have fun.
 
+> 搞了很多东西后，越来越觉得要随便记点东西，主要是记录，没有任何意义。
+
 - [列表 - 韩立的修炼](/)
 - [Hobby Projects](/hobby_projects.md)
 - [Kata](/kata.md)
 - **2024-06**
-  - [AWS/wireguard测试](/2024/06/aws_wireguard.md)
+  - [AWS/wireguard 测试](/2024/06/aws_wireguard.md)
   - [Flutter 环境搭建](/2024/06/flutter_env.md)
   - [Linear Probing Hash Table](/2024/06/linear_probing_hash_table.md)
   - [用 C 实现一个 Varint Python Extension](/2024/06/c_py_extension_varint.md)
