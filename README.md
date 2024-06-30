@@ -4,6 +4,7 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 - [Kata](/kata.md)
 - **2024-06**
+  - [写个 B+Tree](/2024/06/cmu15445_p2.md)
   - [AWS/wireguard 测试](/2024/06/aws_wireguard.md)
   - [Flutter 环境搭建](/2024/06/flutter_env.md)
   - [Linear Probing Hash Table](/2024/06/linear_probing_hash_table.md)
