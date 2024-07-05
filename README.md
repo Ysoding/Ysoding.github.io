@@ -3,6 +3,11 @@ The best thing to do is have fun.
 - [列表 - 韩立的修炼](/)
 - [Hobby Projects](/hobby_projects.md)
 - [Kata](/kata.md)
+
+- **2024-07**
+  - [服务部署方案](/2024/07/server_cd.md)
+  - [docker sdk for python 获得容器ip地址](/2024/07/docker_container_ip.md)
+  - [容器调试工具](/2024/07/container_debug_tool.md)
 - **2024-06**
   - [写个 B+Tree](/2024/06/cmu15445_p2.md)
   - [AWS/wireguard 测试](/2024/06/aws_wireguard.md)
