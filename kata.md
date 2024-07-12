@@ -10,7 +10,10 @@ Small exercises to get you used to reading and writing Rust code!
 
 Enjoy
 
-### [Advent Of Code 2023 Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/4)
+### [Advent Of Code 2023 Day 6: Wait For It](https://adventofcode.com/2023/day/6)
+
+
+### [Advent Of Code 2023 Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5)
 
 phase-2 几十亿的数遍历，直接CPU拉满卡死，后面改用channel一个一个处理，不致于处理太快。不知道要跑多久，可以改成并发的。
 
