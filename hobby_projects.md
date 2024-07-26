@@ -66,7 +66,10 @@ Generate icons. <img src="https://skillicons.dev/icons?i=python">
 
 ### [QClock Go](https://github.com/Ysoding/qclock-go)
 
-<img src="https://skillicons.dev/icons?i=go">
+A Quine clock in Go <img src="https://skillicons.dev/icons?i=go">
+
+![](https://raw.githubusercontent.com/Ysoding/qclock-go/main/qlock.gif)
+
 
 ### [YIM](https://github.com/Ysoding/yim)
 
