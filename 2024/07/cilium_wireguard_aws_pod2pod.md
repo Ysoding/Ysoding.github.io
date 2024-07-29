@@ -289,6 +289,8 @@ level=fatal msg="Wireguard (--enable-wireguard) is not compatible with L7 proxy 
 
 待续。。。
 
+提issue [Cilium (enable Wireguard): pod connectivity fail](https://github.com/cilium/cilium/issues/33863)
+
 <details>
 <summary>云上的LOG</summary>
 
