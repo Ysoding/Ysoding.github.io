@@ -12,7 +12,10 @@ Small exercises to get you used to reading and writing Rust code!
 
 Enjoy
 
+[Advent Of Code 2023 Day 7: Camel Cards](https://adventofcode.com/2023/day/7)
+
 [Advent Of Code 2023 Day 6: Wait For It](https://adventofcode.com/2023/day/6)
+
 
 
 [Advent Of Code 2023 Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5)
