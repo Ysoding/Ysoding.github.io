@@ -5,6 +5,7 @@ The best thing to do is have fun.
 - [Kata](/kata.md)
 
 - **2024-07**
+  - [Golang怎么通过mmap执行汇编代码](/2024/07/go_mmap.md)
   - [Qlock](/2024/07/qlock.md)
   - [MapReduce实现](/2024/07/mapreduce.md)
   - [浏览器插件开发](/2024/07/browser_plugin.md)
