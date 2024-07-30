@@ -115,7 +115,7 @@ go run main.go
 
 ### 怎么运行其它格式的汇编代码呢？
 
-按理说已经是根据上面的思考是可以的，比如我试了下[flat assembler](https://flatassembler.net/)是不行的(see [Code](https://github.com/Ysoding/jitbf/blob/main/runbin/main.go))
+按理说已经是根据上面的思考是可以的，比如我试了下x86格式的汇编指定(由FASM生成)是不行的(see [Code](https://github.com/Ysoding/jitbf/blob/main/runbin/main.go))
 
 GPT:
 
