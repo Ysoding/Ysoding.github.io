@@ -119,3 +119,7 @@ ChatGPT:
 - 使用 `Box<[u8]>` 而不是 `Box<[u8; JIT_MEMORY_CAP]>`，这样可以避免固定大小数组在编译时带来的栈分配问题。
 
 ```
+
+## JIT VS Interpreter
+
+![](https://raw.githubusercontent.com/Ysoding/jitbf-rust/main/jit-vs-interpreter.gif)
