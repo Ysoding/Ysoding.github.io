@@ -113,9 +113,9 @@ go run main.go
 14
 ```
 
-### 怎么运行其它格式的汇编代码呢？
+### 怎么运行由原生的汇编代码生成的机器码？
 
-按理说已经是根据上面的思考是可以的，比如我试了下x86格式的汇编指定(由FASM生成)是不行的(see [Code](https://github.com/Ysoding/jitbf/blob/main/runbin/main.go))
+按理说已经是根据上面的思路是可以的，比如我试了下x86_64格式的汇编指定(由FASM生成)是不行的(see [Code](https://github.com/Ysoding/jitbf/blob/main/runbin/main.go))
 
 GPT:
 
