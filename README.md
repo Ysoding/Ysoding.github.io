@@ -5,7 +5,7 @@ The best thing to do is have fun.
 - [Kata](/kata.md)
 
 - **2024-07**
-  - [JIT Compiler for Brainfuck](/2024/07/brainfuck_jit.md)
+  - [用Rust和Golang写一个Brainfuck JIT](/2024/07/brainfuck_jit.md)
   - [Golang怎么通过mmap执行汇编代码](/2024/07/go_mmap.md)
   - [Qlock](/2024/07/qlock.md)
   - [MapReduce实现](/2024/07/mapreduce.md)
