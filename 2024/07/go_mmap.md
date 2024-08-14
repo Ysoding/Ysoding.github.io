@@ -113,7 +113,7 @@ go run main.go
 14
 ```
 
-### 怎么运行由原生的汇编代码生成的机器码？
+### 怎么运行由原生的汇编代码的机器码？
 
 按理说已经是根据上面的思路是可以的，比如我试了下x86_64格式的汇编指定(由FASM生成)是不行的(see [Code](https://github.com/Ysoding/jitbf/blob/main/runbin/main.go))
 
@@ -135,4 +135,4 @@ Go语言对指针操作有一定的限制，尤其是在涉及不安全操作时
 因此，尽管您的代码在Rust中可以成功执行，但在Go中可能会受到一些限制。如果您需要在Go中执行类似的操作，可能需要考虑更多的安全性和Go语言的限制，或者尝试使用更适合Go的方式来实现相同的功能。
 ```
 
-由于Golang中的机制限制，同样的逻辑用rust或C都是Ok的 [Rust Code](https://github.com/Ysoding/jitbf/blob/main/runbin/rb/src/main.rs)
+由于Golang中的机制限制，同样的逻辑用rust或C都是Ok的 [Rust Code](https://github.com/Ysoding/jitbf/blob/main/runbin/rb/src/main.rs)（l是否逻辑使用C,然后在go中用cgo调用C）。
