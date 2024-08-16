@@ -3,6 +3,9 @@ The best thing to do is have fun.
 - [列表 - 韩立的修炼](/)
 - [Hobby Projects](/hobby_projects.md)
 
+- **2024-08**
+  - [Vscode/ssh配置远程服务器图形化](/2024/08/vscode_ssh_graph_configure.md)
+  - [Ros2环境搭建](/2024/08/ros2_dev_environment.md)
 - **2024-07**
   - [Kata](/kata.md)
   - [用Rust和Golang写一个Brainfuck JIT](/2024/07/brainfuck_jit.md)
