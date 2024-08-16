@@ -94,3 +94,7 @@ cgo没有办法直接编译成wasm。
 将raylib c代码编译 使用[Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)  
 
 然后在用go调用raylib wasm模块，在通过go build成wasm？ ？？(是不是多此一举)
+
+应该可以使用这个库编译成功吧？  
+[raylib-go](https://github.com/gen2brain/raylib-go/tree/master)  
+`It is also possible to use raylib-go without cgo (Windows only; see requirements below).`
