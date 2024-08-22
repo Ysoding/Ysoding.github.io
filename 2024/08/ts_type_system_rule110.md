@@ -159,24 +159,24 @@ type GenNTime<N extends Array<any>, State extends Array<Cell>> = N extends []
   : [State, ...GenNTime<Tail<N>, NextState<State>>];
 
 type N = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
-type InitState = [0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0];
 
-let k: GenNTime<N, InitState> = 69;
+let k: GenNTime<N, [0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0]> = 69;
 
 ```
 
 ### 运行
 
 ```sh
-$ make run
+± % make run                                                                                                                                                                              !3359
 npm install
 
-up to date, audited 3 packages in 716ms
+added 2 packages, and audited 3 packages in 822ms
 
 found 0 vulnerabilities
 ./node_modules/typescript/bin/tsc  -noErrorTruncation rule110.ts | sed 's/\[/\n[/g'
-rule110.ts(63,5): error TS2322: Type 'number' is not assignable to type '
-[InitState, 
+rule110.ts(62,5): error TS2322: Type 'number' is not assignable to type '
+[
+[0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0], 
 [0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0], 
 [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0], 
 [0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0], 
