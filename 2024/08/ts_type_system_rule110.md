@@ -138,9 +138,9 @@ type Rule110<X extends Cell, Y extends Cell, Z extends Cell> = {
 // 根据State生成下一个State，第一个元素不变
 type NextState<State extends Array<Cell>> = State extends [
   infer X extends Cell,
-  ...infer Reset extends Array<Cell>
+  ...infer Rest extends Array<Cell>
 ]
-  ? [X, ...Next<X, Reset>]
+  ? [X, ...Next<X, Rest>]
   : [];
 
 type Next<X extends Cell, Lst extends Array<Cell>> = Lst extends [
