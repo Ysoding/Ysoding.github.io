@@ -4,6 +4,7 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 
 - **2024-08**
+  - [用ts类型系统，实现Rule110(在编译时生成)](/2024/08/ts_type_system_rule110.md)
   - [Raylib CGo Demo](/2024/08/raylib_cgo_demo.md)
   - [Vscode/ssh配置远程服务器图形化](/2024/08/vscode_ssh_graph_configure.md)
   - [Ros2环境搭建](/2024/08/ros2_dev_environment.md)
