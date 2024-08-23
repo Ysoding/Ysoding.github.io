@@ -11,8 +11,19 @@
 Kata 练习! <img src="https://skillicons.dev/icons?i=go,cpp,c,java,js,ts,python,rust">
 
 
-
 ## 2024
+
+### [Ray tracer](https://github.com/Ysoding/raytracer)
+
+ <img src="https://skillicons.dev/icons?i=rust">
+
+### [Monkey Interpreter](https://github.com/Ysoding/monkey-rust)
+
+ <img src="https://skillicons.dev/icons?i=rust">
+
+### [tiny-http-explorer](https://github.com/Ysoding/tiny-http-explorer)
+
+Simple HTTP Explorer <img src="https://skillicons.dev/icons?i=rust">
 
 ### JIT-BF [Rust](https://github.com/Ysoding/jitbf-rust) [Go](https://github.com/Ysoding/jitbf)
 
@@ -149,7 +160,7 @@ Generate icons. <img src="https://skillicons.dev/icons?i=python">
 
 Simple Sqlite<img src="https://skillicons.dev/icons?i=go,sqlite">
 
-### [Toy Redis](https://github.com/cs-learning-every-day/learning-project/tree/main/go-redis)
+### [Toy Redis](https://github.com/Ysoding/redis-go)
 
 基于 Golang 开发的基于 TCP 服务器、内存数据库的一个玩具 Redis。 提供 Redis 协议解析器，Aof 持久化，集群，string/map 相关操作的部分指令 <img src="https://skillicons.dev/icons?i=go,redis">
 
