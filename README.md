@@ -4,6 +4,8 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 
 - **2024-08**
+   - [6.5840 Lab 2: Key/Value Server](/2024/08/mit65840_lab2.md)
+  - [数据库中的Query Execution](/2024/08/cmu15445_p2.md)
   - [用ts类型系统，实现Rule110(在编译时生成)](/2024/08/ts_type_system_rule110.md)
   - [Raylib CGo Demo](/2024/08/raylib_cgo_demo.md)
   - [Vscode/ssh配置远程服务器图形化](/2024/08/vscode_ssh_graph_configure.md)
@@ -13,7 +15,7 @@ The best thing to do is have fun.
   - [用Rust和Golang写一个Brainfuck JIT](/2024/07/brainfuck_jit.md)
   - [Golang怎么通过mmap执行汇编代码](/2024/07/go_mmap.md)
   - [Qlock](/2024/07/qlock.md)
-  - [MapReduce实现](/2024/07/mapreduce.md)
+  - [MapReduce实现](/2024/07/mit65840_mapreduce.md)
   - [浏览器插件开发](/2024/07/browser_plugin.md)
   - [Cilium Wireguard 在云上的Pod2Pod连通性问题](/2024/07/cilium_wireguard_aws_pod2pod.md)
   - [配置多个不同的ssh key](/2024/07/ssh_config.md)

@@ -6,10 +6,9 @@
 
 ## [CS 国外课程学习](https://xmchxup.github.io/posts/other/cs-course-learn/)
 
-## [Kata](https://github.com/XmchxUp/Kata)
+## [Kata](https://ysoding.github.io/#/kata)
 
 Kata 练习! <img src="https://skillicons.dev/icons?i=go,cpp,c,java,js,ts,python,rust">
-
 
 ## 2024
 
