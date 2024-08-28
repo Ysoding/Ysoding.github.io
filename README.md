@@ -4,7 +4,8 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 
 - **2024-08**
-   - [6.5840 Lab 2: Key/Value Server](/2024/08/mit65840_lab2.md)
+  - [为5年前的web项目添加docker构建支持](/2024/08/votesystem_docker.md)
+  - [6.5840 Lab 2: Key/Value Server](/2024/08/mit65840_lab2.md)
   - [数据库中的Query Execution](/2024/08/cmu15445_p2.md)
   - [用ts类型系统，实现Rule110(在编译时生成)](/2024/08/ts_type_system_rule110.md)
   - [Raylib CGo Demo](/2024/08/raylib_cgo_demo.md)
