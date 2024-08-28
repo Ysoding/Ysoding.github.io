@@ -29,7 +29,7 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
 
 ## Docker-compose
 
-因为需要等待mysql启动完成后再启动service，否则service连接不上mysql，则日志  
+因为需要等待mysql启动完成后再启动service，否则service连接不上mysql
 所以需要加上health check
 
 ```yaml
