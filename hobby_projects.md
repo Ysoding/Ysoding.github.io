@@ -14,11 +14,11 @@ Kata 练习! <img src="https://skillicons.dev/icons?i=go,cpp,c,java,js,ts,python
 
 ### [Ray tracer](https://github.com/Ysoding/raytracer)
 
- <img src="https://skillicons.dev/icons?i=rust">
 
+ "Ray Tracing in One Weekend ([github](https://raytracing.github.io/books/RayTracingInOneWeekend.html#overview))" implemented in Rust <img src="https://skillicons.dev/icons?i=rust">
 ### [Monkey Interpreter](https://github.com/Ysoding/monkey-rust)
 
- <img src="https://skillicons.dev/icons?i=rust">
+implemented Monkey Interpreter & Compiler in Rust <img src="https://skillicons.dev/icons?i=rust">
 
 ### [tiny-http-explorer](https://github.com/Ysoding/tiny-http-explorer)
 
