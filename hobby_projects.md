@@ -15,6 +15,8 @@ Kata 练习! <img src="https://skillicons.dev/icons?i=go,cpp,c,java,js,ts,python
 ### [Sowon](https://github.com/Ysoding/sowon-rust/tree/main)
 Starting Soon Timer <img src="https://skillicons.dev/icons?i=rust">
 
+![](https://raw.githubusercontent.com/Ysoding/sowon-rust/main/res.gif)
+
 ### [Ray tracer](https://github.com/Ysoding/raytracer)
 
  "Ray Tracing in One Weekend ([github](https://raytracing.github.io/books/RayTracingInOneWeekend.html#overview))" implemented in Rust <img src="https://skillicons.dev/icons?i=rust">
