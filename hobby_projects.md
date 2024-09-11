@@ -184,3 +184,15 @@ algorithm. <img src="https://skillicons.dev/icons?i=go,cpp,c,java,python">
 ### [gh-pages](https://github.com/XmchxUp/go_gh_page_tool)
 
 yet another gh-pages. <img src="https://skillicons.dev/icons?i=go">
+
+### [Go Crawler](https://github.com/cs-learning-every-day/go-crawler)
+
+<img src="https://skillicons.dev/icons?i=go">
+
+### [Tankwar](https://github.com/cs-learning-every-day/Tankwar)
+
+<img src="https://skillicons.dev/icons?i=java">
+
+### [Todo List go](https://github.com/cs-learning-every-day/go-todolist)
+
+<img src="https://skillicons.dev/icons?i=go">
