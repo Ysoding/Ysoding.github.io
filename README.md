@@ -3,6 +3,8 @@ The best thing to do is have fun.
 - [列表 - 韩立的修炼](/)
 - [Hobby Projects](/hobby_projects.md)
 
+- **2024-09**
+  - [通过SDL2/Rust实现含有动画的Timer程序](/2024/09/sowon.md)
 - **2024-08**
   - [为5年前的web项目添加docker构建支持](/2024/08/votesystem_docker.md)
   - [6.5840 Lab 2: Key/Value Server](/2024/08/mit65840_lab2.md)

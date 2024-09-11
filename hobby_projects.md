@@ -13,9 +13,8 @@ Kata 练习! <img src="https://skillicons.dev/icons?i=go,cpp,c,java,js,ts,python
 ## 2024
 
 ### [Sowon](https://github.com/Ysoding/sowon-rust/tree/main)
-Starting Soon Timer <img src="https://skillicons.dev/icons?i=rust">
 
-![](https://raw.githubusercontent.com/Ysoding/sowon-rust/main/res.gif)
+Starting Soon Timer <img src="https://skillicons.dev/icons?i=rust">
 
 ### [Ray tracer](https://github.com/Ysoding/raytracer)
 
@@ -37,8 +36,6 @@ JIT Compiler for Brainfuck <img src="https://skillicons.dev/icons?i=go,rust">
 ### [QClock Go](https://github.com/Ysoding/qclock-go)
 
 A Quine clock in Go <img src="https://skillicons.dev/icons?i=go">
-
-![](https://raw.githubusercontent.com/Ysoding/qclock-go/main/qlock.gif)
 
 ### [zhugeQ](https://github.com/Ysoding/zhugeQ)
 
@@ -124,11 +121,6 @@ yet another tcp port scanner. <img src="https://skillicons.dev/icons?i=go">
 
 yet another chatroom. <img src="https://skillicons.dev/icons?i=go">
 
-- 每个客户端可以用使用 telnet ip:port 的方式连接到服务器上。
-- 新连接需要用用户名和密码登录，如果没有，则需要注册一个。
-- 然后可以选择一个聊天室加入聊天。
-- 管理员有权创建或删除聊天室，普通人员只有加入、退出、查询聊天室的权力。
-- 聊天室需要有人数限制，每个人发出来的话，其它所有的人都要能看得到。
 
 ### [Open Policy Agent & JWT](https://github.com/XmchxUp/opa-jwt-example)
 
@@ -150,7 +142,7 @@ Small Social Community <img src="https://skillicons.dev/icons?i=java,spring,reac
 
 ### [Vote System](https://github.com/XmchxUp/VoteSystem)
 
-早期大一学习项目，主要参考国外的博客实现的一个投票系统，有三个端(社区前端界面，管理后台界面，后端服务)，算是一个从零实现的全栈系统。 <img src="https://skillicons.dev/icons?i=java,spring,bootstrap,js,html,css,mysql">
+早期大一学习项目，主要参考国外的博客实现的一个投票系统，有三个端(社区前端界面，管理后台界面，后端服务)，一个从零实现的全栈系统。 <img src="https://skillicons.dev/icons?i=java,spring,bootstrap,js,html,css,mysql">
 
 ### [Grade System](https://github.com/cs-learning-every-day/GradeSystem)
 
