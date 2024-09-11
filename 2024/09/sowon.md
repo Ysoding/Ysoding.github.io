@@ -2,6 +2,10 @@
 
 主要是用Rust clone [sowon - Starting Soon Timer for Tsoding Streams](https://github.com/tsoding/sowon) 用来学习的项目。
 
+[Sowon Rust](https://github.com/Ysoding/sowon-rust)
+
+![](https://raw.githubusercontent.com/Ysoding/sowon-rust/main/res.gif)
+
 看C版的代码，没搞过SDL2，看不懂的API，就看C文档，看Rust中sdl2 binding的文档 。
 
 API设计形式可能一样，有需要包装类，用动态指针更好的管理内存。
