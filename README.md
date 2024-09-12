@@ -4,6 +4,7 @@ The best thing to do is have fun.
 - [Hobby Projects](/hobby_projects.md)
 
 - **2024-09**
+  - [用Rust实现Ray tracer](/2024/09/ray_tracer_rust.md)
   - [通过SDL2/Rust实现含有动画的Timer程序](/2024/09/sowon.md)
 - **2024-08**
   - [为5年前的web项目添加docker构建支持](/2024/08/votesystem_docker.md)
