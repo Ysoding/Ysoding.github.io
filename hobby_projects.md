@@ -12,6 +12,14 @@ Kata 练习! <img src="https://skillicons.dev/icons?i=go,cpp,c,java,js,ts,python
 
 ## 2024
 
+### [Blog System](https://github.com/xmchxup/blog)
+
+blog system written by next.js. <img src="https://skillicons.dev/icons?i=typescript,next,tailwind">
+
+### [Multiplayer game prototype](https://github.com/xmchxup/blog)
+
+A simple multiplayer game design using websocket <img src="https://skillicons.dev/icons?i=golang,ts">
+
 ### [Sowon](https://github.com/Ysoding/sowon-rust/tree/main)
 
 Starting Soon Timer <img src="https://skillicons.dev/icons?i=rust">
