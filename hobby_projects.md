@@ -20,6 +20,10 @@ blog system written by next.js. <img src="https://skillicons.dev/icons?i=typescr
 
 A simple multiplayer game design using websocket <img src="https://skillicons.dev/icons?i=golang,ts">
 
+### [Plates](https://github.com/Ysoding/plates)
+
+Generate readable hash or encoding in the style of license plates 🛗 沪B·3W64T<img src="https://skillicons.dev/icons?i=rust">
+
 ### [Sowon](https://github.com/Ysoding/sowon-rust/tree/main)
 
 Starting Soon Timer <img src="https://skillicons.dev/icons?i=rust">
